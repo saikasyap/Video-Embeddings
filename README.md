@@ -1,5 +1,6 @@
 # Video-Emmbeddings
 Unsupervised Learning in TensorFlow 2.0, Keras
+OpenCV is used only for initial preprocessing. 
 
 Converting a video (.mp4 format) in to say 256 column vector. So that it can be used for ad reccomendations. 
 Please see the file Main.ipynb file.
